@@ -1,5 +1,7 @@
 # dokuwiki-plugin-authucenter
 
+[![Join the chat at https://gitter.im/daxingplay/dokuwiki-plugin-authucenter](https://badges.gitter.im/daxingplay/dokuwiki-plugin-authucenter.svg)](https://gitter.im/daxingplay/dokuwiki-plugin-authucenter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 DokuWiki plugin providing authentication against a Discuz with UCenter backend
 
 ## Compatibility
